@@ -5,6 +5,8 @@ var app = express();
 const PORT = 8080;
 
 
+app.use(express.static(__dirname + '/assets'))
+
 
 var root_dir_opts = {
   root :  __dirname + "/",
