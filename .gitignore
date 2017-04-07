@@ -1,5 +1,12 @@
 #Assets 
-assets/
+#assets/
 
 #Legacy Files
 legacy/
+
+#Node Modules
+node_modules/
+
+#dot files
+.c9/
+.git/
